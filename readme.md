@@ -33,3 +33,4 @@ Example item for code 000001 on date 2025-08-22:
 Item{open=12.15, close=12.06, high=12.17, low=11.98, volume=1644260.0, amount=1.97946131091E9}
 ```
 
+upd 2026年8月22日：增补了数据源 解决了缺项的问题
